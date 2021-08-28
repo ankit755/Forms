@@ -1,0 +1,23 @@
+body{
+	background-color: #800F1E;
+	padding: 0 20%;
+	 height: 640px;
+	 
+}
+.fContainer{
+	border: 0.2em solid;
+    width: 100%;
+    height: auto;
+    font-size: 1rem;
+    padding: 0.75em;
+    margin-left: 1.1em;
+}
+.form{
+	color: WHITE;
+	font-weight: bold;	 
+	 
+}
+img{
+	margin: 0em auto;
+	width: 100%;
+}
